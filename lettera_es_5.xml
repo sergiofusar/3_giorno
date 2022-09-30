@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='yes'?>
+
+<lettera>
+  <mittente>
+    <nome>
+    Sergio e Kevin
+    </nome>
+    <cognome>Fusar e Romero</cognome>
+    <indirizzo>
+    Piazza Duomo, Milano
+    </indirizzo>
+  </mittente>  
+  <destinatario>
+    <nome>
+    Epicode
+    </nome>
+    <cognome>
+    SRL
+    </cognome>
+    <indirizzo>
+    Colosseo, Roma
+    </indirizzo>
+  </destinatario>  
+  <data>
+    <giorno> 
+    27
+    </giorno>
+    <mese> 
+    Settembre
+    </mese>
+    <anno>
+    2022
+    </anno>
+  </data>
+  <corpo>
+    <titolo>
+    Finalmente il corso DA è iniziato!
+    </titolo> 
+    <testo>
+    La lezione di oggi riguarda il mondo dei file XML, molto interessante!
+    </testo>
+  </corpo>
+  <firma>
+  S &amp; K 
+   <contatti>
+   343.434343 456.45676
+   </contatti>
+  </firma>
+</lettera>

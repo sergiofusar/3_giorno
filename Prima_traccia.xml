@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='yes'?>
+
+<libro titolo= "Harry Potter e la pietra filosofale">  
+    <capitoli />
+    <autore> 
+        <nome>
+        J.K. Rowling
+        </nome>
+        <indirizzo>
+        Baker Street 121, London 
+        </indirizzo>
+    </autore>
+</libro>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='yes'?>
+<cd>
+  <casa_discografica>
+  Atlantic Records UK
+  </casa_discografica>
+  <artista>
+  Ed Sheeran
+  </artista>
+  <titolo_album>
+  =
+  </titolo_album>
+  <playlist>
+    <traccia id="01">
+      <durata> <!-- hh:mm:ss-->
+      00:03:27
+      </durata>
+      <titolo>
+      Shivers
+      </titolo>
+      <featuring></featuring>
+      <testo>
+      I took an arrow to the heart...
+      </testo>
+    </traccia>
+    <traccia id="02">
+      <durata>
+       00:03:50
+      </durata>
+      <titolo>
+       Bad Habits
+      </titolo>
+      <featuring></featuring>
+      <testo>
+       One two three four...
+      </testo>
+    </traccia>
+    <traccia id="03">
+      <durata>
+       00:03:56
+      </durata>
+      <titolo>
+       Overpass graffiti 
+      </titolo>
+      <featuring></featuring>
+      <testo>
+       This is a dark parade...
+      </testo>
+    </traccia>
+    <traccia id="04">
+      <durata>
+       00:03:05
+      </durata>
+      <titolo>
+       The Joker and the Queen 
+      </titolo>
+      <featuring></featuring>
+      <testo>
+       How was I to know...
+      </testo>
+    </traccia>
+  </playlist>
+  <anno_pubblicazione>
+  2021
+  </anno_pubblicazione>
+  <genere>
+   Pop
+  </genere>
+</cd>
+  
